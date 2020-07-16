@@ -1,4 +1,4 @@
-<h2> Timeline of HIV</h2>
+<h2> Timeline of HIV/AIDS</h2>
 
 <h2><span id="Pre-1980s" class="mw-headline">Pre-1980s</span></h2>
 <dl>
